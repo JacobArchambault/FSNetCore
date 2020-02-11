@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSNetCore", "FSNetCore\FSNetCore.fsproj", "{43A59095-80DD-49A5-B181-0B79579F90B7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "App", "App\App.fsproj", "{E89C4F65-454B-4747-B0B9-98526873A739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A59095-80DD-49A5-B181-0B79579F90B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A59095-80DD-49A5-B181-0B79579F90B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A59095-80DD-49A5-B181-0B79579F90B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A59095-80DD-49A5-B181-0B79579F90B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89C4F65-454B-4747-B0B9-98526873A739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89C4F65-454B-4747-B0B9-98526873A739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89C4F65-454B-4747-B0B9-98526873A739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89C4F65-454B-4747-B0B9-98526873A739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AB0C60-9BF2-438F-8E75-B8E009BCC25F}
+	EndGlobalSection
+EndGlobal
